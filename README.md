@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Cross-Platform App Developemnt, Data Science and AI.
 - 🌱 I’m currently learning Flutter, Web Dev, and Data Science.
 - 💞️ I’m looking to collaborate on projects based on Flutter, .NET, and Data Science.
-- 📫 Reach me at: mi.maxza12@gmail.com
+- 📫 Reach me at: hire.mazahira@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm scared of snakes, but I love Python ;)
 
